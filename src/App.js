@@ -47,7 +47,7 @@ export default function App() {
       description:
         "AI-driven mammogram software for deblurring, pectoral removal, and 3D/4D tumor visualization. Click to view the live app.",
       tech: ["Python", "Streamlit", "aiXplain"],
-      link: "",
+      link: "https://mammocarev3.streamlit.app/",
       gradient: "from-purple-600 to-pink-500",
      
     },
